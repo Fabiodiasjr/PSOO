@@ -55,6 +55,43 @@
 ![Desativar Produto](https://github.com/user-attachments/assets/59912e4e-f876-4221-8490-8e05282901d9)
 
 ## Diagrama de Atividade
+## Cliente
+### Incluir           
+![Image](https://github.com/user-attachments/assets/8139d971-96f5-40ef-9b07-ff68aa30958a)
 
+### Alterar 
+![Image](https://github.com/user-attachments/assets/3959abee-a494-46ac-bc86-39f4d367da2c)
+
+### Consultar 
+![Image](https://github.com/user-attachments/assets/037a9c47-b033-4e05-bc2e-9fec1ed82089)
+
+### Desativar
+![Image](https://github.com/user-attachments/assets/cc5c7a37-867e-4f31-ac3a-1bb21a99d5de)
+
+## Fornecedor
+### Incluir           
+![Image](https://github.com/user-attachments/assets/f191349f-c8df-42ee-9611-46fffd78fb8b)
+
+### Alterar              
+![Image](https://github.com/user-attachments/assets/f079b075-9c24-48e5-82ea-f6abc79b50b9)
+
+### Consultar  
+![Image](https://github.com/user-attachments/assets/d6843507-80de-4ff5-91c2-9996dc795706)
+
+### Desativar
+![Image](https://github.com/user-attachments/assets/9ca3bb25-cee3-4b4b-9d36-6558b26cfaa6)
+
+## Produto
+### Incluir           
+![Image](https://github.com/user-attachments/assets/db7ce7af-0758-4dae-9138-007c453cc3d2)
+
+### Alterar 
+![Image](https://github.com/user-attachments/assets/2e3c878a-5eee-45ce-b96e-d9301c67fe2f)
+
+### Consultar 
+![Image](https://github.com/user-attachments/assets/27b8c700-9fcf-49a8-abf8-bba32a71e3ea)
+
+### Desativar
+![Image](https://github.com/user-attachments/assets/b29a7b13-b2d7-445d-a231-f65fe86c0409)
 
 ## Diagrama de Implantação
