@@ -1,7 +1,7 @@
 # Análise FU
 
 ## Diagrama de Casos de Uso
-![Casos de uso](https://github.com/user-attachments/assets/e463c0e1-62a5-464b-aafb-6c90e9ada0a3)
+![Casos de Uso](https://github.com/user-attachments/assets/cc1d3c35-d7be-48ce-9c24-29262b841e70)
 
 ## Diagramas de Classe
 ### Cliente                Produto                              Fornecedor
