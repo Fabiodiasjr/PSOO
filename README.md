@@ -55,6 +55,8 @@
 ### Desativar
 ![Desativar Produto](https://github.com/user-attachments/assets/59912e4e-f876-4221-8490-8e05282901d9)
 
+
+
 ## Diagrama de Atividade
 ## Cliente
 ### Incluir           
