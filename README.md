@@ -30,17 +30,29 @@
 
 ### Fornecedor
 #### Incluir           
+![Incluir Fornecedor](https://github.com/user-attachments/assets/b4fb1ef6-f599-4df0-9926-244e66a8112f)
 
 #### Alterar              
-#### Consultar                
+![Alterar Fornecedor](https://github.com/user-attachments/assets/f950d589-6514-40ce-a399-1c06fd52cd70)
+
+#### Consultar  
+![Consultar Fornecedor](https://github.com/user-attachments/assets/3c46e228-2819-4a99-bff2-2ea0245b5321)
+
 #### Desativar
+![Desativar Fornecedor](https://github.com/user-attachments/assets/c1da2b69-99c6-449e-8739-7ee02f739b3e)
 
 ### Produto
 #### Incluir           
+![Incluir Produto](https://github.com/user-attachments/assets/a85bbaa2-39ca-4236-97f7-64c7c5c9559c)
 
-#### Alterar              
-#### Consultar                
+#### Alterar 
+![Alterar Produto](https://github.com/user-attachments/assets/05854d29-4a83-4417-870b-6f5773f23c41)
+
+#### Consultar 
+![Consultar Produto](https://github.com/user-attachments/assets/95ebf1a3-6fb7-4d5a-9324-50871a29da74)
+
 #### Desativar
+![Desativar Produto](https://github.com/user-attachments/assets/59912e4e-f876-4221-8490-8e05282901d9)
 
 ## Diagrama de Atividade
 
